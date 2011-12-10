@@ -22,7 +22,7 @@
     "test":"./test"
   },
   "dependencies": {
-    "easyrss": "https://github.com/jheusala/easyrss/tarball/master",
+    "easyrss": "https://github.com/jheusala/node-easyrss/tarball/master",
     "snippets": "*"
   },
   "devDependencies": {
